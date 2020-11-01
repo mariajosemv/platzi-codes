@@ -1,2 +1,3 @@
-# platzi-codes
-Challenges of Platzi courses
+# python-exercises
+- Challenges of Platzi courses.
+- Random Challenges from Internet
